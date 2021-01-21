@@ -6,3 +6,13 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/uiDesigner.xml
+/.idea/vcs.xml
+*.idea
+*.iml
+studentExamlpe.iml
+
+/vcs.xml
+/misc.xml
+/jarRepositories.xml
+/compiler.xml
